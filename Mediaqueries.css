@@ -1,0 +1,54 @@
+/* Default styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(210, 240, 92); /* Default background color */
+    margin: 0;
+    padding: 0;
+}
+
+/* Media query for screens with width 600px or less */
+/* @media only screen and (max-width: 600px) {
+    body {
+        background-color: rgb(247, 149, 21); 
+    }
+} */
+
+/* For small desktops, targeting screens between 1024px and 1280px SMALL DESKTOPS*/
+/* @media only screen and (min-width: 1024px) and (max-width: 1280px) {
+    body {
+        background-color: rgb(100, 149, 237);  
+    }
+} */
+
+/* For medium desktops, targeting screens between 1281px and 1600px MEDIUM DESKTOPS */
+/* @media only screen and (min-width: 1281px) and (max-width: 1600px) {
+    body {
+        background-color: rgb(17, 247, 128); 
+    }
+} */
+
+/* For large desktops, targeting screens wider than 1600px LARGE DESKTOP */
+/* @media only screen and (min-width: 1601px) {
+    body {
+        background-color: rgb(255, 99, 71); 
+    }
+} */
+
+
+/* This class will hide content on small screens */
+/* .content-to-hide {
+    display: block; 
+} */
+
+/* Media query to hide content on small screens */
+/* @media only screen and (max-width: 10px) {
+    .content-to-hide {
+        display: none; 
+    }
+} */
+
+
+
+
+
+
